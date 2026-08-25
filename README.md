@@ -598,22 +598,24 @@ Add the screenshots of the deployed application below.
 
 ![Architecture Graph](screenshots/architecture-graph.png)
 
-> Replace the image paths above with the actual screenshot filenames committed to the repository.
+
 
 ---
 
 ## Live Demo
 
 **Live Application:**
-<YOUR_VERCEL_URL>
+
+https://fix-trail.vercel.app/
 
 **Backend API:**
-<YOUR_RENDER_API_URL>
+
+https://fixtrail.onrender.com
 
 **GitHub Repository:**
-<YOUR_GITHUB_REPOSITORY_URL>
 
-> Replace the placeholders with your actual deployed URLs before submitting.
+https://github.com/ruchitha7799/FixTrail
+
 
 ---
 
